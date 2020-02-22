@@ -1,0 +1,10 @@
+item{
+	id: 1
+	name: 'pedestrian'
+}
+
+item{
+	id: 2
+	name: 'pedestrian_cross'
+}
+
